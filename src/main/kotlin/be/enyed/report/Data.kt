@@ -15,7 +15,7 @@ interface ReportService {
 }
 
 interface DataCollector {
-    fun collect(store: DataStore, select: String): Any // JSON?
+    fun collect(store: DataStore, select: String): Any  // JSON, Map, ... ?
 }
 
 enum class Type {
