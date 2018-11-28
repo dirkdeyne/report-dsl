@@ -10,6 +10,10 @@
 .idea/compiler.xml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/uiDesigner.xml
+.idea/misc.xml
 .idea/vcs.xml
 *.iml
 !**/src/**/build
