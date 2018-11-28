@@ -59,8 +59,6 @@ class ReportDslBuilderTests {
     }
 
     class TestReportService : ReportService {
-        override fun findByName(name: String): DataStore =
-            DataStore("test data store" ,"TEST" , Type.BEAN )
-
+        override fun findByName(name: String): DataStore = DataStore("test data store" ,"TEST" , Type.BEAN )
     }
 }
