@@ -10,6 +10,7 @@
 .idea/compiler.xml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/.name
+.idea/vcs.xml
 *.iml
 !**/src/**/build
 !**/test/**/build
